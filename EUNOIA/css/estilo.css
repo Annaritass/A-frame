@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+.imgcartas {
+	height: 150px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img1 {background-image: url( "../img/7eac0a90-b607-421c-8f18-47fdea0a4e49.jpeg");}
+
+.img2 {background-image: url( "../img/descarga (64).jpeg");}
+
+.img3 {background-image: url( "../img/Greek Yogurt Panna Cotta with Blueberry Sauce.jpeg");}
+
+.img4 {background-image: url( "../img/Fotos_ Postres para Navidad_ 35 ideas originales.jpeg");}
+
+.img_principal {
+	background-image: url( "../img/pexels-nishant-aneja-2955818.jpg");
+	background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carrusel_texto {color:black;}
+
+.footer {
+	height: 280px;
+	background: #101920;
+	color: white;
+}
+
+.fa {
+  padding: 17px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50px;
+}
+
+.fa:hover {
+	opacity: 0.7;}
+
+.fa-facebook {
+	background: #3B5998;
+	color: #FFF;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: #FFF;}
+
+.fa-youtube {
+	background: #BB0000;
+	color: #FFF;}
